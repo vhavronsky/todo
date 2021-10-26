@@ -1,5 +1,9 @@
 # ToDo Application
-**REST-API application (MySQL, Sequelize)**
+**REST-API application (Node.js, MySQL, Sequelize)**
+
+---
+
+Here you can find a cool todo application with the ability to add tasks, delete them, change them and more..
 
 ---
 
